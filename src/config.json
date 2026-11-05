@@ -1,0 +1,17 @@
+{
+  "name": "Trevor Adair Photography",
+  "email": "trevoradair2@gmail.com",
+  "phone": "+18018379308",
+  "instagram": "https://www.instagram.com/trevoradair.portraits/",
+  "facebook": "https://www.facebook.com/trevoradair.portraits/",
+  "futureDomain": "https://trevoradairphotography.com",
+  "publishReady": false,
+  "testimonialApproved": false,
+  "prices": {
+    "families": 340,
+    "portraits": 220,
+    "seniors": 280,
+    "couples": 380,
+    "proposals": 350
+  }
+}

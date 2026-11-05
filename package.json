@@ -1,0 +1,1 @@
+{"name":"trevor-adair-photography","version":"1.0.0","private":true,"description":"Static photography website with no production dependencies","scripts":{"build":"python3 scripts/build.py","test":"python3 scripts/check.py"}}

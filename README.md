@@ -1,6 +1,6 @@
 # Trevor Adair Photography
 
-A complete, original 17-page static photography website, built around Trevor's photographs. Warm ivory, botanical olive, restrained brass, editorial typography, and deliberately varied image compositions. No production framework or package installation is required.
+A complete, original 19-page static photography website, built around Trevor's photographs. Warm ivory, botanical olive, restrained brass, editorial typography, and deliberately varied image compositions. No production framework or package installation is required.
 
 ## View locally
 
